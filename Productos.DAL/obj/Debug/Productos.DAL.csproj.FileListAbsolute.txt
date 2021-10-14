@@ -1,0 +1,14 @@
+D:\10mo cuatrimestre\WebAPI\Productos.DAL\bin\Debug\Productos.DAL.dll
+D:\10mo cuatrimestre\WebAPI\Productos.DAL\bin\Debug\Productos.DAL.pdb
+D:\10mo cuatrimestre\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.csproj.CoreCompileInputs.cache
+D:\10mo cuatrimestre\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.dll
+D:\10mo cuatrimestre\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.pdb
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\bin\Debug\Productos.DAL.dll
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\bin\Debug\Productos.DAL.pdb
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\bin\Debug\Productos.Entities.dll
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\bin\Debug\Productos.Entities.pdb
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.csproj.CopyComplete
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.dll
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.DAL\obj\Debug\Productos.DAL.pdb

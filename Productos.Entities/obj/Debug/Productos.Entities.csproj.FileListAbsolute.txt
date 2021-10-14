@@ -1,0 +1,11 @@
+D:\10mo cuatrimestre\WebAPI\Productos.Entities\bin\Debug\Productos.Entities.dll
+D:\10mo cuatrimestre\WebAPI\Productos.Entities\bin\Debug\Productos.Entities.pdb
+D:\10mo cuatrimestre\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.csproj.CoreCompileInputs.cache
+D:\10mo cuatrimestre\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.dll
+D:\10mo cuatrimestre\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.pdb
+D:\10mo cuatrimestre\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.Entities\bin\Debug\Productos.Entities.dll
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.Entities\bin\Debug\Productos.Entities.pdb
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.dll
+C:\Users\kevin\OneDrive\Documentos\WebAPI\Productos.Entities\obj\Debug\Productos.Entities.pdb
